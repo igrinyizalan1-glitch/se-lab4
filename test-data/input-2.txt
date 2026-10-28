@@ -1,0 +1,6 @@
+# SINGLE alternates to secondary and does not retry after its failure. ALL can succeed using primary.
+GT4500,2,0,2,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
+TORPEDO,ALL

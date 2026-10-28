@@ -1,0 +1,5 @@
+# Primary is tried first. SINGLE does not retry after failure. ALL still tries secondary.
+GT4500,2,1,1,0
+TORPEDO,SINGLE
+TORPEDO,ALL
+TORPEDO,ALL

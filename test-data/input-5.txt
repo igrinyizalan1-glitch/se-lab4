@@ -1,0 +1,9 @@
+# SINGLE fires one store and alternates P-S-P. Then ALL fires both available stores; finally both are empty.
+GT4500,3,0,4,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
