@@ -1,0 +1,5 @@
+# Empty secondary: primary can fire repeatedly. No shot succeeds once both are empty.
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
